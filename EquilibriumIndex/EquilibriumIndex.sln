@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquilibriumIndex", "EquilibriumIndex.csproj", "{B0951A03-94B1-4589-B0AC-98A9E6A0EDE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0951A03-94B1-4589-B0AC-98A9E6A0EDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0951A03-94B1-4589-B0AC-98A9E6A0EDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0951A03-94B1-4589-B0AC-98A9E6A0EDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0951A03-94B1-4589-B0AC-98A9E6A0EDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5F13D7-5C32-4570-BB73-FD4B61644A4E}
+	EndGlobalSection
+EndGlobal

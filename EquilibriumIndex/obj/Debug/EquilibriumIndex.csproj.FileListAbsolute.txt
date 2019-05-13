@@ -1,0 +1,7 @@
+C:\cprog\Arrays\EquilibriumIndex\bin\Debug\EquilibriumIndex.exe.config
+C:\cprog\Arrays\EquilibriumIndex\bin\Debug\EquilibriumIndex.exe
+C:\cprog\Arrays\EquilibriumIndex\bin\Debug\EquilibriumIndex.pdb
+C:\cprog\Arrays\EquilibriumIndex\obj\Debug\EquilibriumIndex.csprojAssemblyReference.cache
+C:\cprog\Arrays\EquilibriumIndex\obj\Debug\EquilibriumIndex.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays\EquilibriumIndex\obj\Debug\EquilibriumIndex.exe
+C:\cprog\Arrays\EquilibriumIndex\obj\Debug\EquilibriumIndex.pdb

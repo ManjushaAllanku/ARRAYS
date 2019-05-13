@@ -1,0 +1,14 @@
+C:\cprog\Arrays\LeadersOfArray\bin\Debug\LeadersOfArray.exe.config
+C:\cprog\Arrays\LeadersOfArray\bin\Debug\LeadersOfArray.exe
+C:\cprog\Arrays\LeadersOfArray\bin\Debug\LeadersOfArray.pdb
+C:\cprog\Arrays\LeadersOfArray\obj\Debug\LeadersOfArray.csprojAssemblyReference.cache
+C:\cprog\Arrays\LeadersOfArray\obj\Debug\LeadersOfArray.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays\LeadersOfArray\obj\Debug\LeadersOfArray.exe
+C:\cprog\Arrays\LeadersOfArray\obj\Debug\LeadersOfArray.pdb
+C:\cprog\Arrays.Assignment4\LeadersOfArray\bin\Debug\LeadersOfArray.exe.config
+C:\cprog\Arrays.Assignment4\LeadersOfArray\bin\Debug\LeadersOfArray.exe
+C:\cprog\Arrays.Assignment4\LeadersOfArray\bin\Debug\LeadersOfArray.pdb
+C:\cprog\Arrays.Assignment4\LeadersOfArray\obj\Debug\LeadersOfArray.csprojAssemblyReference.cache
+C:\cprog\Arrays.Assignment4\LeadersOfArray\obj\Debug\LeadersOfArray.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays.Assignment4\LeadersOfArray\obj\Debug\LeadersOfArray.exe
+C:\cprog\Arrays.Assignment4\LeadersOfArray\obj\Debug\LeadersOfArray.pdb

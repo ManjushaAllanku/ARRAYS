@@ -1,0 +1,7 @@
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\bin\Debug\NegativeGivenSum.exe.config
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\bin\Debug\NegativeGivenSum.exe
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\bin\Debug\NegativeGivenSum.pdb
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\obj\Debug\NegativeGivenSum.csprojAssemblyReference.cache
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\obj\Debug\NegativeGivenSum.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\obj\Debug\NegativeGivenSum.exe
+C:\cprog\Arrays.Assignment4\NegativeGivenSum\obj\Debug\NegativeGivenSum.pdb

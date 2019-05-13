@@ -1,0 +1,7 @@
+C:\cprog\Arrays\Sort012\Sort012\bin\Debug\Sort012.exe.config
+C:\cprog\Arrays\Sort012\Sort012\bin\Debug\Sort012.exe
+C:\cprog\Arrays\Sort012\Sort012\bin\Debug\Sort012.pdb
+C:\cprog\Arrays\Sort012\Sort012\obj\Debug\Sort012.csprojAssemblyReference.cache
+C:\cprog\Arrays\Sort012\Sort012\obj\Debug\Sort012.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays\Sort012\Sort012\obj\Debug\Sort012.exe
+C:\cprog\Arrays\Sort012\Sort012\obj\Debug\Sort012.pdb

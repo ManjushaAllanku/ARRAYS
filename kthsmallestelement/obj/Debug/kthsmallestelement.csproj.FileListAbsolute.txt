@@ -1,0 +1,7 @@
+C:\cprog\Arrays.Assignment4\kthsmallestelement\bin\Debug\kthsmallestelement.exe.config
+C:\cprog\Arrays.Assignment4\kthsmallestelement\bin\Debug\kthsmallestelement.exe
+C:\cprog\Arrays.Assignment4\kthsmallestelement\bin\Debug\kthsmallestelement.pdb
+C:\cprog\Arrays.Assignment4\kthsmallestelement\obj\Debug\kthsmallestelement.csprojAssemblyReference.cache
+C:\cprog\Arrays.Assignment4\kthsmallestelement\obj\Debug\kthsmallestelement.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays.Assignment4\kthsmallestelement\obj\Debug\kthsmallestelement.exe
+C:\cprog\Arrays.Assignment4\kthsmallestelement\obj\Debug\kthsmallestelement.pdb

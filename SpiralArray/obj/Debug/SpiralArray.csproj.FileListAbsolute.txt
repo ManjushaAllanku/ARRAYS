@@ -1,0 +1,7 @@
+C:\cprog\Arrays\SpiralArray\bin\Debug\SpiralArray.exe.config
+C:\cprog\Arrays\SpiralArray\bin\Debug\SpiralArray.exe
+C:\cprog\Arrays\SpiralArray\bin\Debug\SpiralArray.pdb
+C:\cprog\Arrays\SpiralArray\obj\Debug\SpiralArray.csprojAssemblyReference.cache
+C:\cprog\Arrays\SpiralArray\obj\Debug\SpiralArray.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays\SpiralArray\obj\Debug\SpiralArray.exe
+C:\cprog\Arrays\SpiralArray\obj\Debug\SpiralArray.pdb

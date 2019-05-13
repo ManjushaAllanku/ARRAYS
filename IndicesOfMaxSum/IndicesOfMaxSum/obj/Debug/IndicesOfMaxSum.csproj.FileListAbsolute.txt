@@ -1,0 +1,14 @@
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\bin\Debug\IndicesOfMaxSum.exe.config
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\bin\Debug\IndicesOfMaxSum.exe
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\bin\Debug\IndicesOfMaxSum.pdb
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.csprojAssemblyReference.cache
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.exe
+C:\cprog\Arrays\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.pdb
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\bin\Debug\IndicesOfMaxSum.exe.config
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\bin\Debug\IndicesOfMaxSum.exe
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\bin\Debug\IndicesOfMaxSum.pdb
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.csprojAssemblyReference.cache
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.csproj.CoreCompileInputs.cache
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.exe
+C:\cprog\Arrays.Assignment4\IndicesOfMaxSum\IndicesOfMaxSum\obj\Debug\IndicesOfMaxSum.pdb
